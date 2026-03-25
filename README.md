@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/header.png" alt="Kunal Raghav Banner" />
-</p>
+</p> -->
 
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/kunal-raghav-8b168b213">Kunal Raghav</a> 👋</h1>
 
